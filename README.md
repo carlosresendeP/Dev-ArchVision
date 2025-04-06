@@ -28,23 +28,7 @@ O site destaca a excelência profissional do estúdio ArchVision, apresentando s
 
 ## 🚀 Como Executar o Projeto
 
-1. Clone este repositório
-   ```bash
-   git clone https://github.com/seu-usuario/archvision-studio.git
-   ```
-
-2. Navegue até o diretório do projeto
-   ```bash
-   cd archvision-studio
-   ```
-
-3. Abra o arquivo `index.html` no seu navegador ou use um servidor local
-   ```bash
-   # Exemplo usando Python para criar um servidor local
-   python -m http.server
-   ```
-
-4. Acesse `http://localhost:8000` no seu navegador
+acesse o deploy: https://carlosresendep.github.io/Dev-ArchVision/
 
 ## 📁 Estrutura do Projeto
 
