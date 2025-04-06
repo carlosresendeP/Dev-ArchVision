@@ -14,13 +14,9 @@ O site destaca a excelência profissional do estúdio ArchVision, apresentando s
 
 - **Design Moderno**: Interface elegante e profissional com animações sutis
 - **Responsivo**: Adaptação perfeita para todos os dispositivos (desktop, tablet e mobile)
-- **Animações de Scroll**: Revelação de elementos com animações ao rolar a página
 - **Menu Mobile**: Navegação adaptada para dispositivos móveis com menu hambúrguer
 - **Formulário de Contato**: Integração para captação de leads e consultas
 - **Performance Otimizada**: Código limpo e otimizado para carregamento rápido
-
-## 🖼️ Screenshots
-
 
 
 ## 🛠️ Tecnologias Utilizadas
@@ -29,7 +25,6 @@ O site destaca a excelência profissional do estúdio ArchVision, apresentando s
 - CSS3
 - JavaScript (Vanilla)
 - Google Fonts (Inter)
-- Scroll Reveal.js (animações de scroll)
 
 ## 🚀 Como Executar o Projeto
 
